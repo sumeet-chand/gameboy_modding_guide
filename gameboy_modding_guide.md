@@ -1,7 +1,7 @@
 
 # GAMEBOY SETUP GUIDE
 
-* By: Sumeet Singh @ sumeet-singh.com
+* By: Sumeet Singh
 * Created: August 2024
 * Version: 1.0 (September 2024)
 * Description: This document outlines various ways to repair, build, modify, and program flashcarts, and find retro games for any Nintendo Gameboy model.
