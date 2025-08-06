@@ -213,12 +213,12 @@ The gameboy player is the second device other then the Super Gameboy officially 
 on their TV. This accessory attachement which plugs into the base of the Gamecube allows playing any Nintendo Gameboy, Gameboy Color and Gameboy advance game cartridge,
 even the rumble and gyroscope games. It also plays Gameboy games at the correct clock speed as it actually uses original gameboy advance hardware inside.
 
-How it lacks the SGB enhanced features for Gameboy color games, and lacks abilities to customise borders and have many UI elements. It however does come with it's
-own pack of borders.
+It lacks the SGB enhanced features for Gameboy games, and cannot customise borders It however does come with it's own unique borders.
 
-It requires both the base hardware which is region free but not the required startup disc which is region locked. So you
-can buy and attach any regions Gameboy Player base hardware to any region gamecube, but the startup disc has to match the Gamecube's region. The discs are also
-very expensive to collect as they broke more often then the hardware.
+To use you require a hardware known as a Gameboy player which attaches underneath any Gamecube model. Both hardware can be region free, however
+a special Gameboy Player CD which is region locked to the Gamecube base device region i.e. a Japanese Gamecube, with American Gameboy player will require
+the Japanese Gameboy player disc. The Gamepak is then inserted into the Gameboy player and the device is turned on to play. You can use any Gamecube
+controllers including the wireless wavebirds.
 
 Read full review guide here: https://forums.atariage.com/topic/29001-game-boy-player/
 
